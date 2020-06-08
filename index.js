@@ -55,4 +55,4 @@ async function getRandomDogs() {
 
 
 
-addEventListener("click", getRandomDogs);
+btn.addEventListener("click", getRandomDogs);
